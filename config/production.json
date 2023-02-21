@@ -1,7 +1,7 @@
 {
   "en":"production",
     "DBCONFIG": {
-      "connectionString":"mongodb://localhost:27017/Mintey"
+      "connectionString":"mongodb+srv://sulaiman:HExgiLHWW5qtvSgN@cluster0.eohlvsz.mongodb.net/?retryWrites=true&w=majority"
       },
       "cloudinary":{
         "cloud_name": "mansoorcloud",
