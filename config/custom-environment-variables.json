@@ -1,0 +1,11 @@
+{
+    "DBCONFIG": {
+      "connectionString":"connection_string"
+      },
+      "cloudinary":{
+        "cloud_name": "cloud_name",
+        "api_key": "cloudinary_api_key",
+        "api_secret": "cloudinary_api_secret"
+      },
+      "jwtPrivateKey":"privateKey"
+}

@@ -1,0 +1,12 @@
+{
+  "en":"production",
+    "DBCONFIG": {
+      "connectionString":"mongodb://localhost:27017/Mintey"
+      },
+      "cloudinary":{
+        "cloud_name": "mansoorcloud",
+        "api_key": "475838235114589",
+        "api_secret": "VqT5klF59dCMOLr58Xsnk2syymk"
+      },
+      "jwtPrivateKey":"privateKey"
+    }
